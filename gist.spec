@@ -1,4 +1,4 @@
-%define name gist
+%define name	gist
 %define version 3.1.0
 %define release 1
 
