@@ -46,3 +46,18 @@ mv %{buildroot}%{ruby_gemdir}/gems/%{name}-%{version}/man %{buildroot}%{_mandir}
 %{ruby_gemdir}/specifications/%{name}-%{version}.gemspec
 %{ruby_gemdir}/gems/%{name}-%{version}
 
+
+
+%changelog
+* Wed Apr 11 2012 Lev Givon <lev@mandriva.org> 3.1.0-1
++ Revision: 790305
+- Update to 3.1.0.
+
+* Wed Feb 15 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.0.4-2
++ Revision: 774161
+- mass rebuild of ruby packages against ruby 1.9.1
+
+* Tue Jan 03 2012 Lev Givon <lev@mandriva.org> 2.0.4-1
++ Revision: 750068
+- imported package gist
+
