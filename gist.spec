@@ -1,6 +1,6 @@
 %define name	gist
 %define version 3.1.0
-%define release 1
+%define release 2
 
 Summary:	Command line gister
 Name:		%{name}
